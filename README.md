@@ -70,4 +70,4 @@ Every topic is divided into two folders:
 
 ---
 
-**Consistency is the key to mastering DSA. One problem at a time!** 🚀
+**Consistency is the key to mastering DSA** 🚀
